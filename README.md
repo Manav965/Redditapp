@@ -1,10 +1,10 @@
 # Redditapp
 
-#ANDROID Reddit-APPLICATION
+##ANDROID Reddit-APPLICATION
 This application enables users to search for Different subreddits for example "Adventure","Christmas" etc.
 following  KEY concepts were used to build this app.
 
-**1.**Retrieves XML data from  RSS feed and parses it using Retrofit Library(Extracting Information from website).
+1.Retrieves XML data from  RSS feed and parses it using Retrofit Library(Extracting Information from website).
 **2.**Get REQUESTS from Retrofit Library.
 **3.**Card view and web view.
 
