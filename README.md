@@ -21,4 +21,4 @@ following  KEY concepts were used to build this app.**
 **FEW IMAGES OF THE APPLICATION**
 <img src="images/R1.jpg" width =400 height=500>
 <img src="images/R2.jpg" width =400 height=500>
-<img src="images/R2.jpg" width =400 height=500>
+<img src="images/R3.jpg" width =400 height=500>
